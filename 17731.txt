@@ -2832,7 +2832,7 @@ savage animal uneasy in its den:--"Bit of breeze... small thing... can't
 stand up... old!" He slept at last, high-booted, sou'wester on head, and
 his oilskin clothes rustled, when with a deep sighing groan he turned
 over. Men conversed about him in quiet, concerned whispers. "This will
-break'im up"... "Strong as a horse"... "Aye. But he ain't what he used
+break 'im up"... "Strong as a horse"... "Aye. But he ain't what he used
 to be." In sad murmurs they gave him up. Yet at midnight he turned out
 to duty as if nothing had been the matter, and answered to his name with
 a mournful "Here!" He brooded alone more than ever, in an impenetrable
