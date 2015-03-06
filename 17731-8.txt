@@ -2068,7 +2068,7 @@ yells. Suddenly Archie produced a crowbar. He had kept it back; also a
 small hatchet. We howled with satisfaction. He struck a mighty blow and
 small chips flew at our eyes. The boatswain above shouted:--"Look out!
 Look out there. Don't kill the man. Easy does it!" Wamibo, maddened with
-excitement, hung head down and insanely urged us:--"Hoo! Strook'im! Hoo!
+excitement, hung head down and insanely urged us:--"Hoo! Strook 'im! Hoo!
 Hoo!" We were afraid he would fall in and kill one of us and, hurriedly,
 we entreated the boatswain to "shove the blamed Finn overboard." Then,
 all together, we yelled down at the planks:--"Stand from under! Get
@@ -2836,7 +2836,7 @@ savage animal uneasy in its den:--"Bit of breeze... small thing... can't
 stand up... old!" He slept at last, high-booted, sou'wester on head, and
 his oilskin clothes rustled, when with a deep sighing groan he turned
 over. Men conversed about him in quiet, concerned whispers. "This will
-break'im up"... "Strong as a horse"... "Aye. But he ain't what he used
+break 'im up"... "Strong as a horse"... "Aye. But he ain't what he used
 to be." In sad murmurs they gave him up. Yet at midnight he turned out
 to duty as if nothing had been the matter, and answered to his name with
 a mournful "Here!" He brooded alone more than ever, in an impenetrable
@@ -3191,7 +3191,7 @@ afterthought accentuated slowly:--"Yer ain't sick--are yer?"
 he mumbled with a sudden drop in his voice.
 
 Donkin closed one eye, amicable and confidential. He whispered:--"Ye 'ave
-done this afore'aven'tchee?" Jimmy smiled--then as if unable to hold back
+done this afore 'aven'tchee?" Jimmy smiled--then as if unable to hold back
 he let himself go:--"Last ship--yes. I was out of sorts on the passage.
 See? It was easy. They paid me off in Calcutta, and the skipper made no
 bones about it either.... I got my money all right. Laid up fifty-eight
@@ -4470,7 +4470,7 @@ who hated the job. He pushed the needle, purring furiously, with his
 head in a cloud of tobacco smoke; he turned the flaps over, pulled at
 the stitches, stretched at the canvas.--"Lift his shoulders.... Pull to
 you a bit.... So--o--o. Steady." Belfast obeyed, pulled, lifted, overcome
-with sorrow, dropping tears on the tarred twine.--. "Don't you drag
+with sorrow, dropping tears on the tarred twine.--"Don't you drag
 the canvas too taut over his poor face, Sails," he entreated,
 tearfully.--"What are you fashing yourself for? He will be comfortable
 enough," assured the sailmaker, cutting the thread after the last
@@ -4743,7 +4743,7 @@ anything before I come, shipkeeper," he called out. Then, at last, he
 also went ashore--a model chief mate!
 
 The men scattered by the dissolving contact of the land came together
-once more in the shipping office.---"The Narcissus pays off," shouted
+once more in the shipping office.--"The Narcissus pays off," shouted
 outside a glazed door a brass-bound old fellow with a crown and the
 capitals B. T. on his cap. A lot trooped in at once but many were late.
 The room was large, white-washed, and bare; a counter surmounted by a
